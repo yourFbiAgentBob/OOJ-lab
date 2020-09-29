@@ -1,4 +1,4 @@
-solution for program with attached output in the same folder -
+solution with attached output pic, class and java file in the same folder for program -
 
 Develop a Java program that prints all real solutions to the quadratic equation ax2 +bx+c = 0.
 Read in a, b, c and use the quadratic formula. If the discriminate b2
